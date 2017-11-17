@@ -62,6 +62,15 @@ a.btn-cta-primary,
 .btn-cta-primary {
   background: #54ba4e;
   border: 1px solid #54ba4e;
+  
+  color: #fff;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+a.btn-cta-primary-blue,
+.btn-cta-primary-blue {
+  background: #3b5998;
+  border: 1px solid #54ba4e; 
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
@@ -69,6 +78,7 @@ a.btn-cta-primary,
 a.btn-cta-primary:hover,
 .btn-cta-primary:hover {
   background: #49ac43;
+
   border: 1px solid #49ac43;
   color: #fff;
 }
